@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" viewBox="0 0 32 32">
+    <path data-cap="butt" data-color="color-2" fill="none" stroke="#61616b" stroke-width="2" d="M12,22v1 c0,1.10457,0.89543,2,2,2h0c1.10457,0,2-0.89543,2-2v-2.60078"></path>
+    <path data-cap="butt" data-color="color-2" fill="none" stroke="#61616b" stroke-width="2" d="M20,22v1 c0,1.10457-0.89543,2-2,2h0c-1.10457,0-2-0.89543-2-2"></path>
+    <path data-color="color-2" fill="none" stroke="#61616b" stroke-width="2" d=" M14.08062,16h3.83875c0.83851,0,1.30468,0.96993,0.78087,1.62469l-1.91938,2.39922c-0.40033,0.50041-1.16141,0.50041-1.56174,0 l-1.91938-2.39922C12.77595,16.96993,13.24212,16,14.08062,16z"></path>
+    <circle data-color="color-2" fill="none" stroke="#61616b" stroke-width="2" cx="11" cy="11" r="2"></circle>
+    <circle data-color="color-2" fill="none" stroke="#61616b" stroke-width="2" cx="21" cy="11" r="2"></circle>
+    <path data-cap="butt" fill="none" stroke="#61616b" stroke-width="2" d="M8.89563,4.11926 C8.49347,2.33521,6.90558,1,5,1C2.79083,1,1,2.79083,1,5c0,2.14966,1.69971,3.88977,3.82654,3.98254"></path>
+    <path data-cap="butt" fill="none" stroke="#61616b" stroke-width="2" d="M23.10437,4.11926 C23.50653,2.33521,25.09442,1,27,1c2.20917,0,4,1.79083,4,4c0,2.14966-1.69971,3.88977-3.82654,3.98254"></path>
+    <path fill="none" stroke="#61616b" stroke-width="2" d="M4,13 C4,6.97508,9.22196,2,16,2s12,4.97508,12,11c0,6.81818-5.22196,18-12,18S4,19.875,4,13z"></path>
+</svg>

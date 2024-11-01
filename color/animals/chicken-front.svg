@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M31.076 47.12C30.942 47.12 30.808 47.094 30.682 47.039L23.999 44.176L17.316 47.039C17.022 47.167 16.685 47.143 16.408 46.977L11.759 44.187L5.125 46.399C4.8 46.51 4.44 46.442 4.174 46.224C3.908 46.005 3.774 45.666 3.817 45.326L7.173 18.686C8.328 10.308 15.562 3.99902 23.999 3.99902C32.436 3.99902 39.669 10.303 40.821 18.662L44.181 45.325C44.224 45.666 44.089 46.005 43.824 46.223C43.557 46.44 43.198 46.508 42.873 46.398L36.239 44.186L31.59 46.976C31.432 47.071 31.254 47.119 31.075 47.119L31.076 47.12Z" fill="url(#nc-chicken-front-0_linear_301_2)"></path>
+    <path d="M42.874 46.399C43.199 46.509 43.559 46.441 43.825 46.224C44.091 46.005 44.225 45.666 44.182 45.326L43.549 40.303L36.392 37.913C35.838 37.728 35.23 37.795 34.729 38.095L31.572 39.99C31.021 40.321 30.345 40.367 29.755 40.114L24.787 37.985C24.284 37.769 23.715 37.769 23.212 37.985L18.244 40.114C17.654 40.367 16.978 40.321 16.427 39.99L13.27 38.095C12.769 37.794 12.161 37.728 11.607 37.913L4.45002 40.303L3.81702 45.326C3.77402 45.667 3.90902 46.006 4.17402 46.224C4.44102 46.442 4.80002 46.51 5.12502 46.399L11.759 44.187L16.408 46.977C16.685 47.143 17.022 47.166 17.316 47.039L23.999 44.176L30.682 47.039C30.808 47.094 30.942 47.12 31.076 47.12C31.255 47.12 31.432 47.072 31.591 46.977L36.24 44.187L42.874 46.399Z" fill="url(#nc-chicken-front-1_linear_301_2)"></path>
+    <path d="M24 47C20.968 47 18.5 44.532 18.5 41.5C18.5 36.722 23.008 30.655 23.2 30.399C23.577 29.895 24.423 29.895 24.8 30.399C24.992 30.655 29.5 36.721 29.5 41.5C29.5 44.532 27.032 47 24 47Z" fill="url(#nc-chicken-front-2_linear_301_2)"></path>
+    <path d="M24 15C22.346 15 21 13.654 21 12C21 9.94 20.582 8.781 20.179 7.66C19.845 6.735 19.5 5.778 19.5 4.5C19.5 2.019 21.519 0 24 0C26.481 0 28.5 2.019 28.5 4.5C28.5 5.778 28.155 6.735 27.821 7.66C27.418 8.781 27 9.94 27 12C27 13.654 25.654 15 24 15Z" fill="url(#nc-chicken-front-3_linear_301_2)"></path>
+    <path d="M28.242 23.758C27.11 22.624 25.603 22 24 22C22.397 22 20.89 22.624 19.758 23.758C19.367 24.149 19.367 24.781 19.758 25.172L23.293 28.707C23.488 28.902 23.744 29 24 29C24.256 29 24.512 28.902 24.707 28.707L28.242 25.172C28.633 24.781 28.633 24.149 28.242 23.758Z" fill="url(#nc-chicken-front-4_linear_301_2)"></path>
+    <path d="M15 21C16.1046 21 17 20.1046 17 19C17 17.8954 16.1046 17 15 17C13.8954 17 13 17.8954 13 19C13 20.1046 13.8954 21 15 21Z" fill="url(#nc-chicken-front-5_linear_301_2)"></path>
+    <path d="M33 21C34.1046 21 35 20.1046 35 19C35 17.8954 34.1046 17 33 17C31.8954 17 31 17.8954 31 19C31 20.1046 31.8954 21 33 21Z" fill="url(#nc-chicken-front-6_linear_301_2)"></path>
+    <defs>
+        <linearGradient id="nc-chicken-front-0_linear_301_2" x1="23.999" y1="3.99902" x2="23.999" y2="47.1206" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#CEA897"></stop>
+            <stop offset="1" stop-color="#B88163"></stop>
+        </linearGradient>
+        <linearGradient id="nc-chicken-front-1_linear_301_2" x1="23.9995" y1="37.8099" x2="23.9995" y2="47.1202" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#B88163"></stop>
+            <stop offset="1" stop-color="#976545"></stop>
+        </linearGradient>
+        <linearGradient id="nc-chicken-front-2_linear_301_2" x1="24" y1="30.021" x2="24" y2="47" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF666D"></stop>
+            <stop offset="1" stop-color="#E0211F"></stop>
+        </linearGradient>
+        <linearGradient id="nc-chicken-front-3_linear_301_2" x1="24" y1="0" x2="24" y2="15" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF666D"></stop>
+            <stop offset="1" stop-color="#E0211F"></stop>
+        </linearGradient>
+        <linearGradient id="nc-chicken-front-4_linear_301_2" x1="24" y1="22" x2="24" y2="29" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F8D3C4"></stop>
+            <stop offset="1" stop-color="#F4BAA4"></stop>
+        </linearGradient>
+        <linearGradient id="nc-chicken-front-5_linear_301_2" x1="15" y1="17" x2="15" y2="21" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#976545"></stop>
+            <stop offset="1" stop-color="#674832"></stop>
+        </linearGradient>
+        <linearGradient id="nc-chicken-front-6_linear_301_2" x1="33" y1="17" x2="33" y2="21" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#976545"></stop>
+            <stop offset="1" stop-color="#674832"></stop>
+        </linearGradient>
+    </defs>
+</svg>

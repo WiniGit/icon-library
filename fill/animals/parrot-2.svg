@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="0 0 64 64">
+    <path d="M40,1H23A19.021,19.021,0,0,0,4,20V62a1,1,0,0,0,1,1H22A19.021,19.021,0,0,0,41,44V2A1,1,0,0,0,40,1ZM25,29a9,9,0,1,1,9-9A9,9,0,0,1,25,29Z" fill="#61616b"></path>
+    <path data-color="color-2" d="M46,1H43V17H62A16,16,0,0,0,46,1Z" fill="#61616b"></path>
+    <circle data-color="color-2" cx="25" cy="20" r="3" fill="#61616b"></circle>
+    <path data-color="color-2" d="M43,29h3A10,10,0,0,0,56,19H43Z" fill="#61616b"></path>
+</svg>

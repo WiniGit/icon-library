@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M5.884 18.515C5.66 18.515 5.437 18.44 5.253 18.29C1.954 15.603 1 11.949 1 2C1 1.448 1.448 1 2 1C9.546 1 14.991 2.83 18.185 6.439C18.548 6.85 18.513 7.477 18.105 7.844L6.554 18.257C6.365 18.428 6.125 18.514 5.885 18.514L5.884 18.515Z" fill="url(#nc-pig-2-0_linear_307_292)"></path>
+    <path d="M41.446 18.257L29.895 7.84498C29.487 7.47798 29.452 6.85098 29.815 6.43998C33.008 2.83098 38.453 1.00098 46 1.00098C46.552 1.00098 47 1.44898 47 2.00098C47 11.95 46.046 15.604 42.747 18.291C42.563 18.441 42.339 18.516 42.116 18.516C41.876 18.516 41.636 18.43 41.447 18.259L41.446 18.257Z" fill="url(#nc-pig-2-1_linear_307_292)"></path>
+    <path d="M24 47C12.42 47 3 37.579 3 26C3 14.421 12.42 5 24 5C35.58 5 45 14.42 45 26C45 37.58 35.58 47 24 47Z" fill="url(#nc-pig-2-2_linear_307_292)"></path>
+    <path d="M27 40H21C17.134 40 14 36.866 14 33C14 29.134 17.134 26 21 26H27C30.866 26 34 29.134 34 33C34 36.866 30.866 40 27 40Z" fill="url(#nc-pig-2-3_linear_307_292)"></path>
+    <path d="M14 22C15.1046 22 16 21.1046 16 20C16 18.8954 15.1046 18 14 18C12.8954 18 12 18.8954 12 20C12 21.1046 12.8954 22 14 22Z" fill="url(#nc-pig-2-4_linear_307_292)"></path>
+    <path d="M34 22C35.1046 22 36 21.1046 36 20C36 18.8954 35.1046 18 34 18C32.8954 18 32 18.8954 32 20C32 21.1046 32.8954 22 34 22Z" fill="url(#nc-pig-2-5_linear_307_292)"></path>
+    <path d="M20 35C21.1046 35 22 34.1046 22 33C22 31.8954 21.1046 31 20 31C18.8954 31 18 31.8954 18 33C18 34.1046 18.8954 35 20 35Z" fill="url(#nc-pig-2-6_linear_307_292)"></path>
+    <path d="M28 35C29.1046 35 30 34.1046 30 33C30 31.8954 29.1046 31 28 31C26.8954 31 26 31.8954 26 33C26 34.1046 26.8954 35 28 35Z" fill="url(#nc-pig-2-7_linear_307_292)"></path>
+    <defs>
+        <linearGradient id="nc-pig-2-0_linear_307_292" x1="9.71787" y1="1" x2="9.71787" y2="18.515" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F4BAA4"></stop>
+            <stop offset="1" stop-color="#ED9C7C"></stop>
+        </linearGradient>
+        <linearGradient id="nc-pig-2-1_linear_307_292" x1="38.2821" y1="1.00098" x2="38.2821" y2="18.516" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F4BAA4"></stop>
+            <stop offset="1" stop-color="#ED9C7C"></stop>
+        </linearGradient>
+        <linearGradient id="nc-pig-2-2_linear_307_292" x1="24" y1="5" x2="24" y2="47" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F8D3C4"></stop>
+            <stop offset="1" stop-color="#F4BAA4"></stop>
+        </linearGradient>
+        <linearGradient id="nc-pig-2-3_linear_307_292" x1="24" y1="26" x2="24" y2="40" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F4BAA4"></stop>
+            <stop offset="1" stop-color="#ED9C7C"></stop>
+        </linearGradient>
+        <linearGradient id="nc-pig-2-4_linear_307_292" x1="14" y1="18" x2="14" y2="22" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5B5E71"></stop>
+            <stop offset="1" stop-color="#393A46"></stop>
+        </linearGradient>
+        <linearGradient id="nc-pig-2-5_linear_307_292" x1="34" y1="18" x2="34" y2="22" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5B5E71"></stop>
+            <stop offset="1" stop-color="#393A46"></stop>
+        </linearGradient>
+        <linearGradient id="nc-pig-2-6_linear_307_292" x1="20" y1="31" x2="20" y2="35" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#ED9C7C"></stop>
+            <stop offset="1" stop-color="#D3795F"></stop>
+        </linearGradient>
+        <linearGradient id="nc-pig-2-7_linear_307_292" x1="28" y1="31" x2="28" y2="35" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#ED9C7C"></stop>
+            <stop offset="1" stop-color="#D3795F"></stop>
+        </linearGradient>
+    </defs>
+</svg>

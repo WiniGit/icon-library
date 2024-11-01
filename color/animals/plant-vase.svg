@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M24 19C16.832 19 11 13.168 11 6V4C11 3.448 11.448 3 12 3C19.168 3 25 8.832 25 16V18C25 18.552 24.552 19 24 19Z" fill="url(#nc-plant-vase-0_linear_307_281)"></path>
+    <path d="M24 26C23.448 26 23 25.552 23 25V23C23 15.832 28.832 10 36 10C36.552 10 37 10.448 37 11V13C37 20.168 31.168 26 24 26Z" fill="url(#nc-plant-vase-1_linear_307_281)"></path>
+    <path d="M24 31C23.448 31 23 30.552 23 30V2C23 1.448 23.448 1 24 1C24.552 1 25 1.448 25 2V30C25 30.552 24.552 31 24 31Z" fill="url(#nc-plant-vase-2_linear_307_281)"></path>
+    <path d="M38.756 33.345C38.566 33.126 38.29 33 38 33H10C9.71003 33 9.43503 33.126 9.24403 33.345C9.05503 33.564 8.96903 33.855 9.01003 34.142L9.00203 43.998C9.00103 45.656 10.344 47 12.002 47H35.998C37.656 47 38.999 45.656 38.998 43.998L38.99 34.142C39.031 33.855 38.945 33.564 38.756 33.345Z" fill="url(#nc-plant-vase-3_linear_307_281)"></path>
+    <path d="M42 35H6C5.447 35 5 34.552 5 34V30C5 29.448 5.447 29 6 29H42C42.553 29 43 29.448 43 30V34C43 34.552 42.553 35 42 35Z" fill="url(#nc-plant-vase-4_linear_307_281)"></path>
+    <rect x="9" y="35" width="30" height="2" fill="black" fill-opacity="0.15"></rect>
+    <defs>
+        <linearGradient id="nc-plant-vase-0_linear_307_281" x1="18" y1="3" x2="18" y2="19" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#6AD084"></stop>
+            <stop offset="1" stop-color="#3CB34B"></stop>
+        </linearGradient>
+        <linearGradient id="nc-plant-vase-1_linear_307_281" x1="30" y1="10" x2="30" y2="26" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#6AD084"></stop>
+            <stop offset="1" stop-color="#3CB34B"></stop>
+        </linearGradient>
+        <linearGradient id="nc-plant-vase-2_linear_307_281" x1="24" y1="1" x2="24" y2="31" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#9EE0B1"></stop>
+            <stop offset="1" stop-color="#6AD084"></stop>
+        </linearGradient>
+        <linearGradient id="nc-plant-vase-3_linear_307_281" x1="24" y1="33" x2="24" y2="47" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#976545"></stop>
+            <stop offset="1" stop-color="#674832"></stop>
+        </linearGradient>
+        <linearGradient id="nc-plant-vase-4_linear_307_281" x1="24" y1="29" x2="24" y2="35" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#B88163"></stop>
+            <stop offset="1" stop-color="#976545"></stop>
+        </linearGradient>
+    </defs>
+</svg>

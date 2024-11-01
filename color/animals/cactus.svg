@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M12 21H8C7.448 21 7 20.552 7 20C7 19.448 7.448 19 8 19H12C12.552 19 13 19.448 13 20C13 20.552 12.552 21 12 21Z" fill="url(#nc-cactus-0_linear_307_356)"></path>
+    <path d="M40 21H36C35.448 21 35 20.552 35 20C35 19.448 35.448 19 36 19H40C40.552 19 41 19.448 41 20C41 20.552 40.552 21 40 21Z" fill="url(#nc-cactus-1_linear_307_356)"></path>
+    <path d="M24 7C23.448 7 23 6.552 23 6V2C23 1.448 23.448 1 24 1C24.552 1 25 1.448 25 2V6C25 6.552 24.552 7 24 7Z" fill="url(#nc-cactus-2_linear_307_356)"></path>
+    <path d="M15.5 10.5C15.244 10.5 14.988 10.402 14.793 10.207L11.293 6.70701C10.902 6.31601 10.902 5.68401 11.293 5.29301C11.684 4.90201 12.316 4.90201 12.707 5.29301L16.207 8.79301C16.598 9.18401 16.598 9.81601 16.207 10.207C16.012 10.402 15.756 10.5 15.5 10.5Z" fill="url(#nc-cactus-3_linear_307_356)"></path>
+    <path d="M32.5 10.5C32.244 10.5 31.988 10.402 31.793 10.207C31.402 9.81601 31.402 9.18401 31.793 8.79301L35.293 5.29301C35.684 4.90201 36.316 4.90201 36.707 5.29301C37.098 5.68401 37.098 6.31601 36.707 6.70701L33.207 10.207C33.012 10.402 32.756 10.5 32.5 10.5Z" fill="url(#nc-cactus-4_linear_307_356)"></path>
+    <path d="M36 30H12C11.448 30 11 29.552 11 29V18.377C11 11.385 16.362 5.36003 23.346 5.01603C30.81 4.64803 37 10.615 37 18V29C37 29.552 36.552 30 36 30Z" fill="url(#nc-cactus-5_linear_307_356)"></path>
+    <path d="M38.756 31.345C38.565 31.126 38.29 31 38 31H10C9.71003 31 9.43503 31.126 9.24403 31.345C9.05503 31.564 8.96903 31.855 9.01003 32.142L9.00203 43.998C9.00103 45.656 10.344 47 12.002 47H35.998C37.656 47 38.999 45.656 38.998 43.998L38.99 32.142C39.031 31.854 38.945 31.564 38.756 31.345Z" fill="url(#nc-cactus-6_linear_307_356)"></path>
+    <path d="M42 33H6C5.447 33 5 32.552 5 32V28C5 27.448 5.447 27 6 27H42C42.553 27 43 27.448 43 28V32C43 32.552 42.553 33 42 33Z" fill="url(#nc-cactus-7_linear_307_356)"></path>
+    <rect x="9" y="33" width="30" height="2" fill="black" fill-opacity="0.15"></rect>
+    <defs>
+        <linearGradient id="nc-cactus-0_linear_307_356" x1="10" y1="19" x2="10" y2="21" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3CB34B"></stop>
+            <stop offset="1" stop-color="#288031"></stop>
+        </linearGradient>
+        <linearGradient id="nc-cactus-1_linear_307_356" x1="38" y1="19" x2="38" y2="21" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3CB34B"></stop>
+            <stop offset="1" stop-color="#288031"></stop>
+        </linearGradient>
+        <linearGradient id="nc-cactus-2_linear_307_356" x1="24" y1="1" x2="24" y2="7" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3CB34B"></stop>
+            <stop offset="1" stop-color="#288031"></stop>
+        </linearGradient>
+        <linearGradient id="nc-cactus-3_linear_307_356" x1="13.75" y1="4.99976" x2="13.75" y2="10.5" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3CB34B"></stop>
+            <stop offset="1" stop-color="#288031"></stop>
+        </linearGradient>
+        <linearGradient id="nc-cactus-4_linear_307_356" x1="34.25" y1="4.99976" x2="34.25" y2="10.5" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3CB34B"></stop>
+            <stop offset="1" stop-color="#288031"></stop>
+        </linearGradient>
+        <linearGradient id="nc-cactus-5_linear_307_356" x1="24" y1="4.99988" x2="24" y2="30" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#6AD084"></stop>
+            <stop offset="1" stop-color="#3CB34B"></stop>
+        </linearGradient>
+        <linearGradient id="nc-cactus-6_linear_307_356" x1="24" y1="31" x2="24" y2="47" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#976545"></stop>
+            <stop offset="1" stop-color="#674832"></stop>
+        </linearGradient>
+        <linearGradient id="nc-cactus-7_linear_307_356" x1="24" y1="27" x2="24" y2="33" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#B88163"></stop>
+            <stop offset="1" stop-color="#976545"></stop>
+        </linearGradient>
+    </defs>
+</svg>

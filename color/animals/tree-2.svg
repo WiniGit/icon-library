@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M36 37H12C7.038 37 3 32.962 3 28C3 24.12 5.529 20.682 9.142 19.469C9.046 18.958 9 18.477 9 18C9 14.932 10.574 12.108 13.155 10.457C13.05 9.948 13 9.474 13 9C13 4.589 16.589 1 21 1C24.652 1 27.834 3.538 28.724 7.029C33.35 7.399 37 11.281 37 16C37 17.031 36.819 18.039 36.46 19.012C41.209 19.253 45 23.192 45 28C45 32.962 40.962 37 36 37Z" fill="url(#nc-tree-2-0_linear_307_240)"></path>
+    <path d="M34 45H25V31.414L29.707 26.707C30.098 26.316 30.098 25.684 29.707 25.293C29.316 24.902 28.684 24.902 28.293 25.293L25 28.586V17C25 16.448 24.552 16 24 16C23.448 16 23 16.448 23 17V23.586L19.707 20.293C19.316 19.902 18.684 19.902 18.293 20.293C17.902 20.684 17.902 21.316 18.293 21.707L23 26.414V45H14C13.448 45 13 45.448 13 46C13 46.552 13.448 47 14 47H34C34.552 47 35 46.552 35 46C35 45.448 34.552 45 34 45Z" fill="url(#nc-tree-2-1_linear_307_240)"></path>
+    <defs>
+        <linearGradient id="nc-tree-2-0_linear_307_240" x1="24" y1="1" x2="24" y2="37" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#6AD084"></stop>
+            <stop offset="1" stop-color="#3CB34B"></stop>
+        </linearGradient>
+        <linearGradient id="nc-tree-2-1_linear_307_240" x1="24" y1="16" x2="24" y2="47" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3CB34B"></stop>
+            <stop offset="1" stop-color="#288031"></stop>
+        </linearGradient>
+    </defs>
+</svg>

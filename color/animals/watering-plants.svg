@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M22 34H18C9.729 34 3 27.271 3 19V18C3 17.447 3.447 17 4 17H10C17.168 17 23 22.832 23 30V33C23 33.553 22.553 34 22 34Z" fill="url(#nc-watering-plants-0_linear_152_10)"></path>
+    <path d="M11.196 22.02C10.653 21.907 10.128 22.262 10.019 22.804C9.91001 23.346 10.262 23.872 10.803 23.981C15.246 24.87 18.999 29.458 18.999 34.001H20.999C20.999 28.476 16.601 23.102 11.195 22.021L11.196 22.02Z" fill="url(#nc-watering-plants-1_linear_152_10)"></path>
+    <path d="M35 15C32.243 15 30 12.757 30 9.99998C30 5.63598 34.116 1.46998 34.291 1.29498C34.681 0.903984 35.317 0.901984 35.707 1.29298C35.883 1.46798 40 5.63598 40 9.99998C40 12.757 37.757 15 35 15Z" fill="url(#nc-watering-plants-2_linear_152_10)"></path>
+    <path d="M13 13C10.794 13 9 11.206 9 9.00004C9 6.61504 11.977 3.56904 12.316 3.22904C12.504 3.04004 12.749 2.94604 13.03 2.93604C13.298 2.93804 13.553 3.04704 13.74 3.23904C14.074 3.58304 17 6.66204 17 9.00004C17 11.206 15.206 13 13 13Z" fill="url(#nc-watering-plants-3_linear_152_10)"></path>
+    <path d="M23 19C21.346 19 20 17.654 20 16C20 13.653 22.059 11.527 22.293 11.293C22.684 10.902 23.316 10.902 23.707 11.293C23.941 11.527 26 13.653 26 16C26 17.654 24.654 19 23 19Z" fill="url(#nc-watering-plants-4_linear_152_10)"></path>
+    <path d="M35 21C27.28 21 21 27.28 21 35V46C21 46.553 21.447 47 22 47C22.553 47 23 46.553 23 46V41H27C36.925 41 45 32.925 45 23V21H35Z" fill="url(#nc-watering-plants-5_linear_152_10)"></path>
+    <path d="M35.274 28.962C35.805 28.81 36.113 28.256 35.962 27.726C35.81 27.194 35.254 26.893 34.726 27.038C27.383 29.136 23 34.355 23 41H25C25 35.3 28.841 30.8 35.274 28.962Z" fill="url(#nc-watering-plants-6_linear_152_10)"></path>
+    <defs>
+        <linearGradient id="nc-watering-plants-0_linear_152_10" x1="13" y1="17" x2="13" y2="34" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#6AD084"></stop>
+            <stop offset="1" stop-color="#3CB34B"></stop>
+        </linearGradient>
+        <linearGradient id="nc-watering-plants-1_linear_152_10" x1="15.4991" y1="21.999" x2="15.4991" y2="34.001" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#9EE0B1"></stop>
+            <stop offset="1" stop-color="#6AD084"></stop>
+        </linearGradient>
+        <linearGradient id="nc-watering-plants-2_linear_152_10" x1="35" y1="1.00073" x2="35" y2="15" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#DEF2FD"></stop>
+            <stop offset="1" stop-color="#9ED9FA"></stop>
+        </linearGradient>
+        <linearGradient id="nc-watering-plants-3_linear_152_10" x1="13" y1="2.93604" x2="13" y2="13" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#DEF2FD"></stop>
+            <stop offset="1" stop-color="#9ED9FA"></stop>
+        </linearGradient>
+        <linearGradient id="nc-watering-plants-4_linear_152_10" x1="23" y1="10.9998" x2="23" y2="19" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#DEF2FD"></stop>
+            <stop offset="1" stop-color="#9ED9FA"></stop>
+        </linearGradient>
+        <linearGradient id="nc-watering-plants-5_linear_152_10" x1="33" y1="21" x2="33" y2="47" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3CB34B"></stop>
+            <stop offset="1" stop-color="#288031"></stop>
+        </linearGradient>
+        <linearGradient id="nc-watering-plants-6_linear_152_10" x1="29.5002" y1="27.0017" x2="29.5002" y2="41" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#6AD084"></stop>
+            <stop offset="1" stop-color="#3CB34B"></stop>
+        </linearGradient>
+    </defs>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M42.1 6.33399C41.832 5.85199 41.224 5.67699 40.741 5.94499C40.222 6.23299 27.984 13.128 25.155 23.028C24.055 26.896 24.191 30.414 25.563 33.202C26.897 35.846 29.3 37.793 32.163 38.55C33.197 38.851 34.267 39.007 35.344 39.013C40.373 39.013 44.509 35.377 46.311 29.071C49.142 19.172 42.394 6.85399 42.1 6.33399Z" fill="url(#nc-organic-0_linear_307_235)"></path>
+    <path d="M5.9 6.33399C6.168 5.85199 6.776 5.67699 7.259 5.94499C7.778 6.23299 20.016 13.128 22.845 23.028C23.945 26.896 23.809 30.414 22.437 33.202C21.103 35.846 18.7 37.793 15.837 38.55C14.803 38.851 13.733 39.007 12.656 39.013C7.627 39.013 3.491 35.377 1.689 29.071C-1.142 19.172 5.606 6.85399 5.9 6.33399Z" fill="url(#nc-organic-1_linear_307_235)"></path>
+    <path d="M24.74 2.32697C24.341 1.91797 23.687 1.90997 23.278 2.30897C23.272 2.31497 23.266 2.32097 23.26 2.32697C22.841 2.78797 13 13.731 13 24C13 31.9 17.317 37 24 37C30.683 37 35 31.9 35 24C35 13.731 25.159 2.78797 24.74 2.32697Z" fill="url(#nc-organic-2_linear_307_235)"></path>
+    <path d="M30.707 25.318C30.323 24.921 29.69 24.91 29.293 25.293L25 29.586V13C25 12.448 24.552 12 24 12C23.448 12 23 12.448 23 13V23.586L18.707 19.293C18.319 18.919 17.705 18.919 17.318 19.293C16.921 19.677 16.91 20.31 17.293 20.707L23 26.414V46C23 46.552 23.448 47 24 47C24.552 47 25 46.552 25 46V32.414L30.707 26.707C31.081 26.319 31.081 25.705 30.707 25.318Z" fill="url(#nc-organic-3_linear_307_235)"></path>
+    <defs>
+        <linearGradient id="nc-organic-0_linear_307_235" x1="35.712" y1="5.81934" x2="35.712" y2="39.013" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3CB34B"></stop>
+            <stop offset="1" stop-color="#288031"></stop>
+        </linearGradient>
+        <linearGradient id="nc-organic-1_linear_307_235" x1="12.288" y1="5.81934" x2="12.288" y2="39.013" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3CB34B"></stop>
+            <stop offset="1" stop-color="#288031"></stop>
+        </linearGradient>
+        <linearGradient id="nc-organic-2_linear_307_235" x1="24" y1="2.01489" x2="24" y2="37" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#6AD084"></stop>
+            <stop offset="1" stop-color="#3CB34B"></stop>
+        </linearGradient>
+        <linearGradient id="nc-organic-3_linear_307_235" x1="24.0001" y1="12" x2="24.0001" y2="47" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3CB34B"></stop>
+            <stop offset="1" stop-color="#288031"></stop>
+        </linearGradient>
+    </defs>
+</svg>

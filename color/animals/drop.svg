@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M24.71 2.3001C24.312 1.9221 23.688 1.9221 23.29 2.3001C22.625 2.9661 7.00003 18.8301 7.00003 29.0001C6.90903 38.2981 14.373 45.9091 23.67 46.0001C23.78 46.0011 23.89 46.0011 24 46.0001C33.298 46.0911 40.909 38.6271 41 29.3301C41.001 29.2201 41.001 29.1101 41 29.0001C41 18.8301 25.375 2.9661 24.71 2.3001Z" fill="url(#nc-ui-6-0_linear_215_6)"></path>
+    <path d="M24 38C20.521 38 15 35.557 15 29C15.093 27.748 15.433 26.527 16 25.407C17 32.188 21.75 36.188 28.142 37C26.853 37.637 25.438 37.979 24 38Z" fill="url(#nc-ui-6-1_linear_215_6)"></path>
+    <defs>
+        <linearGradient id="nc-ui-6-0_linear_215_6" x1="24" y1="2.0166" x2="24" y2="46.0009" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#DEF2FD"></stop>
+            <stop offset="1" stop-color="#9ED9FA"></stop>
+        </linearGradient>
+        <linearGradient id="nc-ui-6-1_linear_215_6" x1="21.571" y1="25.407" x2="21.571" y2="38" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#60BEF6"></stop>
+            <stop offset="1" stop-color="#29A0EA"></stop>
+        </linearGradient>
+    </defs>
+</svg>

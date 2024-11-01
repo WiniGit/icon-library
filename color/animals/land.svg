@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M46 47H2C1.448 47 1 46.552 1 46V35.548C1 35.238 1.143 34.946 1.388 34.757C14.689 24.414 33.311 24.414 46.612 34.757C46.857 34.946 47 35.238 47 35.548V46C47 46.552 46.552 47 46 47Z" fill="url(#nc-land-0_linear_307_189)"></path>
+    <path d="M38.235 14.078C38.744 12.779 39.004 11.395 39 10C39 5.029 35.866 1 32 1C28.134 1 25 5.029 25 10C24.996 11.395 25.256 12.779 25.765 14.078C23.939 16.311 22.96 19.116 23 22C23 28.075 27.029 33 32 33C36.971 33 41 28.075 41 22C41.04 19.116 40.061 16.311 38.235 14.078Z" fill="url(#nc-land-1_linear_307_189)"></path>
+    <path d="M32 21C31.448 21 31 21.448 31 22V40C31 40.552 31.448 41 32 41C32.552 41 33 40.552 33 40V22C33 21.448 32.552 21 32 21Z" fill="url(#nc-land-2_linear_307_189)"></path>
+    <path d="M22.235 14.078C22.744 12.779 23.004 11.395 23 10C23 5.029 19.866 1 16 1C12.134 1 8.99996 5.029 8.99996 10C8.99596 11.395 9.25596 12.779 9.76496 14.078C7.93896 16.311 6.95996 19.116 6.99996 22C6.99996 28.075 11.029 33 16 33C20.971 33 25 28.075 25 22C25.04 19.116 24.061 16.311 22.235 14.078Z" fill="url(#nc-land-3_linear_307_189)"></path>
+    <path d="M16 21C15.448 21 15 21.448 15 22V40C15 40.552 15.448 41 16 41C16.552 41 17 40.552 17 40V22C17 21.448 16.552 21 16 21Z" fill="url(#nc-land-4_linear_307_189)"></path>
+    <defs>
+        <linearGradient id="nc-land-0_linear_307_189" x1="24" y1="26.9998" x2="24" y2="47" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#9EE0B1"></stop>
+            <stop offset="1" stop-color="#6AD084"></stop>
+        </linearGradient>
+        <linearGradient id="nc-land-1_linear_307_189" x1="32" y1="1" x2="32" y2="33" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3CB34B"></stop>
+            <stop offset="1" stop-color="#288031"></stop>
+        </linearGradient>
+        <linearGradient id="nc-land-2_linear_307_189" x1="32" y1="21" x2="32" y2="41" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#6AD084"></stop>
+            <stop offset="1" stop-color="#3CB34B"></stop>
+        </linearGradient>
+        <linearGradient id="nc-land-3_linear_307_189" x1="16" y1="1" x2="16" y2="33" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#6AD084"></stop>
+            <stop offset="1" stop-color="#3CB34B"></stop>
+        </linearGradient>
+        <linearGradient id="nc-land-4_linear_307_189" x1="16" y1="21" x2="16" y2="41" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3CB34B"></stop>
+            <stop offset="1" stop-color="#288031"></stop>
+        </linearGradient>
+    </defs>
+</svg>

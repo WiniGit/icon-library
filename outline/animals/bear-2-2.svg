@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16">
+    <circle fill="none" stroke="#61616b" stroke-linecap="round" stroke-linejoin="round" cx="8" cy="9" r="6.5"></circle>
+    <path fill="none" stroke="#61616b" stroke-linecap="round" stroke-linejoin="round" d="M6.382,2.711 C6.034,1.44,4.882,0.5,3.5,0.5c-1.657,0-3,1.343-3,3c0,1.171,0.678,2.174,1.656,2.669"></path>
+    <path fill="none" stroke="#61616b" stroke-linecap="round" stroke-linejoin="round" d="M9.618,2.711 C9.966,1.44,11.118,0.5,12.5,0.5c1.657,0,3,1.343,3,3c0,1.171-0.678,2.174-1.656,2.669"></path>
+    <circle fill="#61616b" cx="6" cy="8" r="1" data-color="color-2" data-stroke="none" stroke="none"></circle>
+    <circle fill="#61616b" cx="10" cy="8" r="1" data-color="color-2" data-stroke="none" stroke="none"></circle>
+    <polygon fill="#61616b" points="6,10 10,10 8,12 " data-color="color-2" data-stroke="none" stroke="none"></polygon>
+    <line fill="none" stroke="#61616b" stroke-linecap="round" stroke-linejoin="round" x1="6.5" y1="12.5" x2="9.5" y2="12.5" data-color="color-2"></line>
+</svg>

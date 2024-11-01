@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M24.7 2.2999C24.332 1.9129 23.719 1.8989 23.333 2.2669C23.322 2.2779 23.311 2.2889 23.3 2.2999C22.6 2.9999 7 18.7999 7 28.9999C6.909 38.2979 14.373 45.9089 23.67 45.9999C23.78 46.0009 23.89 46.0009 24 45.9999C33.298 46.0909 40.909 38.6269 41 29.3299C41.001 29.2199 41.001 29.1099 41 28.9999C41 18.7999 25.4 2.9999 24.7 2.2999Z" fill="url(#nc-ui-5-0_linear_207_98)"></path>
+    <path d="M24 36C22.2 36 17 34.7 17 29C17.1 25.9 21.8 19.6 23.2 17.7C23.531 17.258 24.158 17.169 24.6 17.5C24.676 17.557 24.743 17.624 24.8 17.7C26.2 19.6 30.9 26 31 29C31 34.7 25.8 36 24 36Z" fill="url(#nc-ui-5-1_linear_207_98)"></path>
+    <defs>
+        <linearGradient id="nc-ui-5-0_linear_207_98" x1="24" y1="2" x2="24" y2="46.0007" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF666D"></stop>
+            <stop offset="1" stop-color="#E0211F"></stop>
+        </linearGradient>
+        <linearGradient id="nc-ui-5-1_linear_207_98" x1="24" y1="17.3" x2="24" y2="36" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFD6DA"></stop>
+            <stop offset="1" stop-color="#FF9EA8"></stop>
+        </linearGradient>
+    </defs>
+</svg>

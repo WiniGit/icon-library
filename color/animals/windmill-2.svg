@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M33 47H15C14.448 47 14 46.552 14 46C14 45.951 14.004 45.903 14.011 45.854L18.011 18.854C18.048 18.604 18.178 18.377 18.375 18.219L23.375 14.219C23.74 13.926 24.26 13.926 24.625 14.219L29.625 18.219C29.822 18.377 29.952 18.604 29.989 18.854L33.989 45.854C34.07 46.4 33.692 46.909 33.146 46.989C33.098 46.996 33.049 47 33 47Z" fill="url(#nc-windmill-2-0_linear_307_134)"></path>
+    <path d="M29.989 18.854C29.952 18.604 29.822 18.377 29.625 18.219L24.625 14.219C24.26 13.926 23.74 13.926 23.375 14.219L18.375 18.219C18.178 18.377 18.048 18.604 18.011 18.854L17.1 25H30.9L29.989 18.854Z" fill="url(#nc-windmill-2-1_linear_307_134)"></path>
+    <path d="M32 18C31.735 18 31.48 17.895 31.293 17.707L27.586 14L37.293 4.29299C37.683 3.90299 38.317 3.90299 38.707 4.29299L41.707 7.29299C42.097 7.68399 42.097 8.31699 41.707 8.70699L32.707 17.707C32.52 17.895 32.265 18 32 18Z" fill="url(#nc-windmill-2-2_linear_307_134)"></path>
+    <path d="M23 11C23 11.265 22.895 11.52 22.707 11.707L19 15.414L9.29299 5.70699C8.90299 5.31599 8.90299 4.68399 9.29299 4.29299L12.293 1.29299C12.684 0.902988 13.317 0.902988 13.707 1.29299L22.707 10.293C22.895 10.48 23.001 10.735 23 11Z" fill="url(#nc-windmill-2-3_linear_307_134)"></path>
+    <path d="M16 20C16.265 20 16.52 20.105 16.707 20.293L20.414 24L10.707 33.707C10.316 34.097 9.68299 34.097 9.29299 33.707L6.29299 30.707C5.90299 30.317 5.90299 29.683 6.29299 29.293L15.293 20.293C15.48 20.105 15.735 19.999 16 20Z" fill="url(#nc-windmill-2-4_linear_307_134)"></path>
+    <path d="M25 27.0001C25 26.7351 25.105 26.4801 25.293 26.2931L29 22.5861L38.707 32.2931C39.097 32.6831 39.097 33.3171 38.707 33.7071L35.707 36.7071C35.317 37.0971 34.683 37.0971 34.293 36.7071L25.293 27.7071C25.105 27.5201 24.999 27.2651 25 27.0001Z" fill="url(#nc-windmill-2-5_linear_307_134)"></path>
+    <path d="M10 33.9999C9.448 33.9999 9 33.5519 9 32.9999C9 32.7349 9.105 32.4809 9.293 32.2929L37.293 4.29295C37.677 3.89595 38.31 3.88495 38.707 4.26795C39.104 4.65195 39.115 5.28495 38.732 5.68195C38.724 5.68995 38.716 5.69795 38.707 5.70695L10.707 33.7069C10.52 33.8949 10.265 33.9999 10 33.9999Z" fill="url(#nc-windmill-2-6_linear_307_134)"></path>
+    <path d="M10 4C9.448 4 9 4.448 9 5C9 5.265 9.105 5.519 9.293 5.707L37.293 33.707C37.69 34.091 38.323 34.08 38.707 33.683C39.081 33.295 39.081 32.681 38.707 32.293L10.707 4.293C10.52 4.105 10.265 4 10 4Z" fill="url(#nc-windmill-2-7_linear_307_134)"></path>
+    <path d="M24 21C25.1046 21 26 20.1046 26 19C26 17.8954 25.1046 17 24 17C22.8954 17 22 17.8954 22 19C22 20.1046 22.8954 21 24 21Z" fill="url(#nc-windmill-2-8_linear_307_134)"></path>
+    <path d="M21 47V42C21 40.343 22.343 39 24 39C25.657 39 27 40.343 27 42V47H21Z" fill="url(#nc-windmill-2-9_linear_307_134)"></path>
+    <defs>
+        <linearGradient id="nc-windmill-2-0_linear_307_134" x1="24" y1="13.9993" x2="24" y2="47" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#B88163"></stop>
+            <stop offset="1" stop-color="#976545"></stop>
+        </linearGradient>
+        <linearGradient id="nc-windmill-2-1_linear_307_134" x1="24" y1="13.9993" x2="24" y2="25" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#B88163"></stop>
+            <stop offset="1" stop-color="#976545"></stop>
+        </linearGradient>
+        <linearGradient id="nc-windmill-2-2_linear_307_134" x1="34.7927" y1="4.00049" x2="34.7927" y2="18" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E0E0E6"></stop>
+            <stop offset="1" stop-color="#C2C3CD"></stop>
+        </linearGradient>
+        <linearGradient id="nc-windmill-2-3_linear_307_134" x1="16.0002" y1="1.00049" x2="16.0002" y2="15.414" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E0E0E6"></stop>
+            <stop offset="1" stop-color="#C2C3CD"></stop>
+        </linearGradient>
+        <linearGradient id="nc-windmill-2-4_linear_307_134" x1="13.2072" y1="20" x2="13.2072" y2="33.9995" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E0E0E6"></stop>
+            <stop offset="1" stop-color="#C2C3CD"></stop>
+        </linearGradient>
+        <linearGradient id="nc-windmill-2-5_linear_307_134" x1="31.9998" y1="22.5861" x2="31.9998" y2="36.9996" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E0E0E6"></stop>
+            <stop offset="1" stop-color="#C2C3CD"></stop>
+        </linearGradient>
+        <linearGradient id="nc-windmill-2-6_linear_307_134" x1="24.0061" y1="3.98779" x2="24.0061" y2="33.9999" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F98E5E"></stop>
+            <stop offset="1" stop-color="#EA6524"></stop>
+        </linearGradient>
+        <linearGradient id="nc-windmill-2-7_linear_307_134" x1="23.9938" y1="4" x2="23.9938" y2="33.988" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F98E5E"></stop>
+            <stop offset="1" stop-color="#EA6524"></stop>
+        </linearGradient>
+        <linearGradient id="nc-windmill-2-8_linear_307_134" x1="24" y1="17" x2="24" y2="21" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#393A46"></stop>
+            <stop offset="1" stop-color="#17181C"></stop>
+        </linearGradient>
+        <linearGradient id="nc-windmill-2-9_linear_307_134" x1="24" y1="39" x2="24" y2="47" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#393A46"></stop>
+            <stop offset="1" stop-color="#17181C"></stop>
+        </linearGradient>
+    </defs>
+</svg>

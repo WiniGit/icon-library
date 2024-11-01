@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M24 22C16.832 22 11 16.168 11 9V7C11 6.448 11.447 6 12 6C19.168 6 25 11.832 25 19V21C25 21.552 24.553 22 24 22Z" fill="url(#nc-plant-soil-0_linear_307_287)"></path>
+    <path d="M24 30C23.447 30 23 29.552 23 29V27C23 19.832 28.832 14 36 14C36.553 14 37 14.448 37 15V17C37 24.168 31.168 30 24 30Z" fill="url(#nc-plant-soil-1_linear_307_287)"></path>
+    <path d="M24 42C23.447 42 23 41.552 23 41V2C23 1.448 23.447 1 24 1C24.553 1 25 1.448 25 2V41C25 41.552 24.553 42 24 42Z" fill="url(#nc-plant-soil-2_linear_307_287)"></path>
+    <path d="M46 47H2C1.447 47 1 46.552 1 46C1 45.448 1.447 45 2 45H11.101C11.566 42.721 13.585 41 16 41C16.764 41 17.516 41.182 18.199 41.523C19.788 38.741 22.736 37 26 37C30.625 37 34.445 40.506 34.944 45H46C46.553 45 47 45.448 47 46C47 46.552 46.553 47 46 47Z" fill="url(#nc-plant-soil-3_linear_307_287)"></path>
+    <defs>
+        <linearGradient id="nc-plant-soil-0_linear_307_287" x1="18" y1="6" x2="18" y2="22" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#6AD084"></stop>
+            <stop offset="1" stop-color="#3CB34B"></stop>
+        </linearGradient>
+        <linearGradient id="nc-plant-soil-1_linear_307_287" x1="30" y1="14" x2="30" y2="30" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#6AD084"></stop>
+            <stop offset="1" stop-color="#3CB34B"></stop>
+        </linearGradient>
+        <linearGradient id="nc-plant-soil-2_linear_307_287" x1="24" y1="1" x2="24" y2="42" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#9EE0B1"></stop>
+            <stop offset="1" stop-color="#6AD084"></stop>
+        </linearGradient>
+        <linearGradient id="nc-plant-soil-3_linear_307_287" x1="24" y1="37" x2="24" y2="47" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#B88163"></stop>
+            <stop offset="1" stop-color="#976545"></stop>
+        </linearGradient>
+    </defs>
+</svg>

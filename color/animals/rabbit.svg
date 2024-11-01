@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M14.319 21.444C13.89 21.444 13.497 21.167 13.365 20.74C11.699 15.365 11.351 6.09 13.417 2.634C13.951 1.74 14.634 1.207 15.444 1.049C15.611 1.017 15.781 1 15.954 1C20.111 1 25.079 11.051 26.271 17.568C26.367 18.088 26.04 18.592 25.526 18.718L14.558 21.414C14.479 21.435 14.398 21.444 14.319 21.444Z" fill="url(#nc-rabbit-0_linear_307_275)"></path>
+    <path d="M21.564 47.0001H18C11.935 47.0001 7 42.0651 7 36.0001V32.8761C7 25.8501 11.461 19.5781 17.85 17.6251C19.979 16.9731 22.181 16.8311 24.422 17.2031C25.197 15.1061 26.151 13.0991 27.149 11.4761C29.822 7.12405 36.282 1.05505 40.73 1.05505C41.474 1.05505 42.146 1.22005 42.727 1.54605C43.699 2.09305 44.364 3.06605 44.704 4.43705C45.826 8.96105 43.21 16.8661 40.842 20.5411C39.58 22.4971 37.8 24.5911 35.893 26.3711C36.955 28.9801 37.26 31.8111 36.775 34.6051C35.525 41.7871 29.129 46.9991 21.566 46.9991L21.564 47.0001Z" fill="url(#nc-rabbit-1_linear_307_275)"></path>
+    <path d="M28.174 18.5909C28.859 16.7399 29.704 14.9569 30.556 13.5709C33.193 9.27894 38.844 4.34294 40.709 5.05494C42.167 6.01994 39.566 15.1339 37.479 18.3749C36.404 20.0409 34.831 21.8909 33.163 23.4469C32.627 22.6439 31.884 21.6799 30.876 20.7069C29.912 19.7759 28.967 19.0879 28.175 18.5889L28.174 18.5909Z" fill="url(#nc-rabbit-2_linear_307_275)"></path>
+    <path d="M18 33C16.346 33 15 31.654 15 30C15 28.346 16.346 27 18 27C19.654 27 21 28.346 21 30C21 31.654 19.654 33 18 33Z" fill="url(#nc-rabbit-3_linear_307_275)"></path>
+    <path d="M10 39C10 37.343 8.657 36 7 36C7 38.033 7.564 39.932 8.53 41.568C9.407 41.044 10 40.096 10 39Z" fill="url(#nc-rabbit-4_linear_307_275)"></path>
+    <defs>
+        <linearGradient id="nc-rabbit-0_linear_307_275" x1="19.1385" y1="1" x2="19.1385" y2="21.444" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#C2C3CD"></stop>
+            <stop offset="1" stop-color="#A2A3B4"></stop>
+        </linearGradient>
+        <linearGradient id="nc-rabbit-1_linear_307_275" x1="25.986" y1="1.05505" x2="25.986" y2="47.0001" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E0E0E6"></stop>
+            <stop offset="1" stop-color="#C2C3CD"></stop>
+        </linearGradient>
+        <linearGradient id="nc-rabbit-2_linear_307_275" x1="34.6537" y1="4.98596" x2="34.6537" y2="23.4469" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF9EA8"></stop>
+            <stop offset="1" stop-color="#FF666D"></stop>
+        </linearGradient>
+        <linearGradient id="nc-rabbit-3_linear_307_275" x1="18" y1="27" x2="18" y2="33" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5B5E71"></stop>
+            <stop offset="1" stop-color="#393A46"></stop>
+        </linearGradient>
+        <linearGradient id="nc-rabbit-4_linear_307_275" x1="8.5" y1="36" x2="8.5" y2="41.568" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5B5E71"></stop>
+            <stop offset="1" stop-color="#393A46"></stop>
+        </linearGradient>
+    </defs>
+</svg>

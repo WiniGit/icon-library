@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <g clip-path="url(#nc-grain-clip-0_307_204)">
+        <path d="M24 43H22C14.832 43 9 37.168 9 30V28C9 27.448 9.448 27 10 27H12C19.168 27 25 32.832 25 40V42C25 42.552 24.552 43 24 43Z" fill="url(#nc-grain-0_linear_307_204)"></path>
+        <path d="M24 28H23C16.383 28 11 22.617 11 16V15C11 14.448 11.448 14 12 14H13C19.617 14 25 19.383 25 26V27C25 27.552 24.552 28 24 28Z" fill="url(#nc-grain-1_linear_307_204)"></path>
+        <path d="M24 17.556C23.759 17.556 23.518 17.469 23.327 17.296L22.549 16.589C20.26 14.508 19 11.735 19 8.77801C19 5.82101 20.261 3.04801 22.549 0.967006L23.327 0.260006C23.709 -0.0869941 24.291 -0.0869941 24.673 0.260006L25.451 0.967006C27.74 3.04801 29 5.82101 29 8.77801C29 11.735 27.739 14.508 25.451 16.589L24.673 17.296C24.482 17.469 24.241 17.556 24 17.556Z" fill="url(#nc-grain-2_linear_307_204)"></path>
+        <path d="M25 28H24C23.448 28 23 27.552 23 27V26C23 19.383 28.383 14 35 14H36C36.552 14 37 14.448 37 15V16C37 22.617 31.617 28 25 28Z" fill="url(#nc-grain-3_linear_307_204)"></path>
+        <path d="M26 43H24C23.448 43 23 42.552 23 42V40C23 32.832 28.832 27 36 27H38C38.552 27 39 27.448 39 28V30C39 37.168 33.168 43 26 43Z" fill="url(#nc-grain-4_linear_307_204)"></path>
+        <path d="M24 47C23.448 47 23 46.552 23 46V17C23 16.448 23.448 16 24 16C24.552 16 25 16.448 25 17V46C25 46.552 24.552 47 24 47Z" fill="url(#nc-grain-5_linear_307_204)"></path>
+    </g>
+    <defs>
+        <linearGradient id="nc-grain-0_linear_307_204" x1="17" y1="27" x2="17" y2="43" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFD36E"></stop>
+            <stop offset="1" stop-color="#F6B828"></stop>
+        </linearGradient>
+        <linearGradient id="nc-grain-1_linear_307_204" x1="18" y1="14" x2="18" y2="28" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFD36E"></stop>
+            <stop offset="1" stop-color="#F6B828"></stop>
+        </linearGradient>
+        <linearGradient id="nc-grain-2_linear_307_204" x1="24" y1="-0.000244141" x2="24" y2="17.556" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFD36E"></stop>
+            <stop offset="1" stop-color="#F6B828"></stop>
+        </linearGradient>
+        <linearGradient id="nc-grain-3_linear_307_204" x1="30" y1="14" x2="30" y2="28" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFD36E"></stop>
+            <stop offset="1" stop-color="#F6B828"></stop>
+        </linearGradient>
+        <linearGradient id="nc-grain-4_linear_307_204" x1="31" y1="27" x2="31" y2="43" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFD36E"></stop>
+            <stop offset="1" stop-color="#F6B828"></stop>
+        </linearGradient>
+        <linearGradient id="nc-grain-5_linear_307_204" x1="24" y1="16" x2="24" y2="47" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F6B828"></stop>
+            <stop offset="1" stop-color="#C88509"></stop>
+        </linearGradient>
+        <clipPath id="nc-grain-clip-0_307_204">
+            <rect width="48" height="48" fill="white"></rect>
+        </clipPath>
+    </defs>
+</svg>

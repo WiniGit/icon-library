@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M12 7H0C0 11.418 3.582 15 8 15H11.158L12 7Z" fill="url(#nc-cow-0_linear_307_319)"></path>
+    <path d="M36 7H48C48 11.418 44.418 15 40 15H36.842L36 7Z" fill="url(#nc-cow-1_linear_307_319)"></path>
+    <path d="M36 8V3C36 1.896 35.104 1 34 1C32.896 1 32 1.896 32 3V8H36Z" fill="url(#nc-cow-2_linear_307_319)"></path>
+    <path d="M16 8V3C16 1.896 15.104 1 14 1C12.896 1 12 1.896 12 3V8H16Z" fill="url(#nc-cow-3_linear_307_319)"></path>
+    <path d="M37.95 27.527H10.05C9.767 27.527 9.496 27.407 9.307 27.196C9.118 26.985 9.026 26.704 9.056 26.423L11.006 7.896C11.059 7.387 11.488 7 12 7H36C36.512 7 36.941 7.387 36.994 7.896L38.944 26.423C38.974 26.704 38.882 26.985 38.693 27.196C38.504 27.407 38.233 27.527 37.95 27.527Z" fill="url(#nc-cow-4_linear_307_319)"></path>
+    <path d="M17 21C18.1046 21 19 20.1046 19 19C19 17.8954 18.1046 17 17 17C15.8954 17 15 17.8954 15 19C15 20.1046 15.8954 21 17 21Z" fill="url(#nc-cow-5_linear_307_319)"></path>
+    <path d="M31 21C32.1046 21 33 20.1046 33 19C33 17.8954 32.1046 17 31 17C29.8954 17 29 17.8954 29 19C29 20.1046 29.8954 21 31 21Z" fill="url(#nc-cow-6_linear_307_319)"></path>
+    <path d="M30 47H18C11.935 47 7 42.065 7 36V30C7 27.243 9.243 25 12 25H36C38.757 25 41 27.243 41 30V36C41 42.065 36.065 47 30 47Z" fill="url(#nc-cow-7_linear_307_319)"></path>
+    <path d="M17 39C18.6569 39 20 37.6569 20 36C20 34.3431 18.6569 33 17 33C15.3431 33 14 34.3431 14 36C14 37.6569 15.3431 39 17 39Z" fill="url(#nc-cow-8_linear_307_319)"></path>
+    <path d="M31 39C32.6569 39 34 37.6569 34 36C34 34.3431 32.6569 33 31 33C29.3431 33 28 34.3431 28 36C28 37.6569 29.3431 39 31 39Z" fill="url(#nc-cow-9_linear_307_319)"></path>
+    <defs>
+        <linearGradient id="nc-cow-0_linear_307_319" x1="6" y1="7" x2="6" y2="15" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#C2C3CD"></stop>
+            <stop offset="1" stop-color="#A2A3B4"></stop>
+        </linearGradient>
+        <linearGradient id="nc-cow-1_linear_307_319" x1="42" y1="7" x2="42" y2="15" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#C2C3CD"></stop>
+            <stop offset="1" stop-color="#A2A3B4"></stop>
+        </linearGradient>
+        <linearGradient id="nc-cow-2_linear_307_319" x1="34" y1="1" x2="34" y2="8" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5B5E71"></stop>
+            <stop offset="1" stop-color="#393A46"></stop>
+        </linearGradient>
+        <linearGradient id="nc-cow-3_linear_307_319" x1="14" y1="1" x2="14" y2="8" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5B5E71"></stop>
+            <stop offset="1" stop-color="#393A46"></stop>
+        </linearGradient>
+        <linearGradient id="nc-cow-4_linear_307_319" x1="24" y1="7" x2="24" y2="27.527" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E0E0E6"></stop>
+            <stop offset="1" stop-color="#C2C3CD"></stop>
+        </linearGradient>
+        <linearGradient id="nc-cow-5_linear_307_319" x1="17" y1="17" x2="17" y2="21" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5B5E71"></stop>
+            <stop offset="1" stop-color="#393A46"></stop>
+        </linearGradient>
+        <linearGradient id="nc-cow-6_linear_307_319" x1="31" y1="17" x2="31" y2="21" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#5B5E71"></stop>
+            <stop offset="1" stop-color="#393A46"></stop>
+        </linearGradient>
+        <linearGradient id="nc-cow-7_linear_307_319" x1="24" y1="25" x2="24" y2="47" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F8D3C4"></stop>
+            <stop offset="1" stop-color="#F4BAA4"></stop>
+        </linearGradient>
+        <linearGradient id="nc-cow-8_linear_307_319" x1="17" y1="33" x2="17" y2="39" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F4BAA4"></stop>
+            <stop offset="1" stop-color="#ED9C7C"></stop>
+        </linearGradient>
+        <linearGradient id="nc-cow-9_linear_307_319" x1="31" y1="33" x2="31" y2="39" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F4BAA4"></stop>
+            <stop offset="1" stop-color="#ED9C7C"></stop>
+        </linearGradient>
+    </defs>
+</svg>

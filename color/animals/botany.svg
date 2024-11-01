@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M18 42C18 45.314 20.686 48 24 48C27.314 48 30 45.314 30 42V27H18V42Z" fill="url(#nc-botany-0_linear_307_145)"></path>
+    <path d="M24 14C16.824 13.992 11.008 8.176 11 1C11 0.448 11.448 0 12 0C19.176 0.008 24.992 5.824 25 13C25 13.552 24.552 14 24 14Z" fill="url(#nc-botany-1_linear_307_145)"></path>
+    <path d="M31 24H17C16.4477 24 16 24.4477 16 25V26C16 26.5523 16.4477 27 17 27H31C31.5523 27 32 26.5523 32 26V25C32 24.4477 31.5523 24 31 24Z" fill="url(#nc-botany-2_linear_307_145)"></path>
+    <path d="M21 32H18V34H21C21.552 34 22 33.552 22 33C22 32.448 21.552 32 21 32Z" fill="url(#nc-botany-3_linear_307_145)"></path>
+    <path d="M21 37H18V39H21C21.552 39 22 38.552 22 38C22 37.448 21.552 37 21 37Z" fill="url(#nc-botany-4_linear_307_145)"></path>
+    <path d="M37 5C37 4.448 36.552 4 36 4C28.824 4.008 23.008 9.824 23 17V24H25V17.949C31.765 17.423 36.989 11.785 37 5Z" fill="url(#nc-botany-5_linear_307_145)"></path>
+    <path d="M23 13.949V13C23.022 7.87199 19.48 3.41699 14.48 2.28099C13.942 2.15699 13.405 2.49299 13.281 3.03099C13.157 3.56899 13.493 4.10599 14.031 4.22999C18.122 5.15999 21.019 8.80499 21 13V13.624C21.657 13.785 22.326 13.894 23 13.949Z" fill="url(#nc-botany-6_linear_307_145)"></path>
+    <path d="M34.719 7.03099C34.595 6.49299 34.058 6.15699 33.52 6.28099C28.52 7.41699 24.978 11.873 25 17V17.949C25.674 17.894 26.343 17.785 27 17.624V17C26.981 12.805 29.878 9.15999 33.969 8.22999C34.507 8.10599 34.843 7.56899 34.719 7.03099Z" fill="url(#nc-botany-7_linear_307_145)"></path>
+    <defs>
+        <linearGradient id="nc-botany-0_linear_307_145" x1="24" y1="27" x2="24" y2="48" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#9ED9FA"></stop>
+            <stop offset="1" stop-color="#60BEF6"></stop>
+        </linearGradient>
+        <linearGradient id="nc-botany-1_linear_307_145" x1="18" y1="0" x2="18" y2="14" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3CB34B"></stop>
+            <stop offset="1" stop-color="#288031"></stop>
+        </linearGradient>
+        <linearGradient id="nc-botany-2_linear_307_145" x1="24" y1="24" x2="24" y2="27" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#9ED9FA"></stop>
+            <stop offset="1" stop-color="#60BEF6"></stop>
+        </linearGradient>
+        <linearGradient id="nc-botany-3_linear_307_145" x1="18" y1="33" x2="21.5" y2="33" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#60BEF6"></stop>
+            <stop offset="1" stop-color="#29A0EA"></stop>
+        </linearGradient>
+        <linearGradient id="nc-botany-4_linear_307_145" x1="18" y1="38" x2="21.5" y2="38" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#60BEF6"></stop>
+            <stop offset="1" stop-color="#29A0EA"></stop>
+        </linearGradient>
+        <linearGradient id="nc-botany-5_linear_307_145" x1="30" y1="4" x2="30" y2="24" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#6AD084"></stop>
+            <stop offset="1" stop-color="#3CB34B"></stop>
+        </linearGradient>
+        <linearGradient id="nc-botany-6_linear_307_145" x1="18.1277" y1="2.25525" x2="18.1277" y2="13.949" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#6AD084"></stop>
+            <stop offset="1" stop-color="#3CB34B"></stop>
+        </linearGradient>
+        <linearGradient id="nc-botany-7_linear_307_145" x1="29.8723" y1="6.25525" x2="29.8723" y2="17.949" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#9EE0B1"></stop>
+            <stop offset="1" stop-color="#6AD084"></stop>
+        </linearGradient>
+    </defs>
+</svg>

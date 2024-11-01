@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M24 47C20.247 47 16.73 45.335 14.351 42.433C11.972 39.531 11.03 35.756 11.766 32.076L12.976 26.027L35.031 26.052L36.235 32.075C36.971 35.756 36.029 39.53 33.65 42.432C31.27 45.334 27.754 46.999 24.001 46.999L24 47Z" fill="url(#nc-mushroom-0_linear_307_301)"></path>
+    <path d="M24 29C11.317 29 1 24.963 1 20C1 13.579 11.413 1 24 1C31.629 1 37.452 5.43 40.243 8.07C44.285 11.892 47 16.686 47 20C47 25.047 36.897 29 24 29Z" fill="url(#nc-mushroom-1_linear_307_301)"></path>
+    <path d="M14.5 22C16.433 22 18 20.433 18 18.5C18 16.567 16.433 15 14.5 15C12.567 15 11 16.567 11 18.5C11 20.433 12.567 22 14.5 22Z" fill="url(#nc-mushroom-2_linear_307_301)"></path>
+    <path d="M30 22C33.866 22 37 18.866 37 15C37 11.134 33.866 8 30 8C26.134 8 23 11.134 23 15C23 18.866 26.134 22 30 22Z" fill="url(#nc-mushroom-3_linear_307_301)"></path>
+    <defs>
+        <linearGradient id="nc-mushroom-0_linear_307_301" x1="24.0005" y1="26.027" x2="24.0005" y2="47" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E0E0E6"></stop>
+            <stop offset="1" stop-color="#C2C3CD"></stop>
+        </linearGradient>
+        <linearGradient id="nc-mushroom-1_linear_307_301" x1="24" y1="1" x2="24" y2="29" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF666D"></stop>
+            <stop offset="1" stop-color="#E0211F"></stop>
+        </linearGradient>
+        <linearGradient id="nc-mushroom-2_linear_307_301" x1="14.5" y1="15" x2="14.5" y2="22" gradientUnits="userSpaceOnUse">
+            <stop stop-color="white"></stop>
+            <stop offset="1" stop-color="#FFD6DA"></stop>
+        </linearGradient>
+        <linearGradient id="nc-mushroom-3_linear_307_301" x1="30" y1="8" x2="30" y2="22" gradientUnits="userSpaceOnUse">
+            <stop stop-color="white"></stop>
+            <stop offset="1" stop-color="#FFD6DA"></stop>
+        </linearGradient>
+    </defs>
+</svg>

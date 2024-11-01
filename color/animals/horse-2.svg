@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" style="" viewBox="0 0 48 48">
+    <path d="M13.866 11.968C13.841 11.968 13.816 11.968 13.791 11.968C8.842 11.583 5.017 7.464 5 2.5C5.002 1.95 5.052 1.402 5.149 0.860996C5.237 0.353996 5.696 -0.00300377 6.209 0.0349962C11.418 0.401996 15.343 4.922 14.976 10.131C14.952 10.468 14.911 10.803 14.851 11.135C14.77 11.616 14.353 11.968 13.866 11.968Z" fill="url(#nc-horse-2-0_linear_307_173)"></path>
+    <path d="M34.134 11.968C33.648 11.968 33.232 11.618 33.149 11.139C32.225 5.999 35.643 1.084 40.783 0.160996C41.117 0.100996 41.453 0.0589962 41.791 0.0349962C42.304 -0.00300377 42.763 0.353996 42.851 0.860996C42.948 1.402 42.998 1.95 43 2.5C42.981 7.463 39.157 11.58 34.209 11.965C34.184 11.967 34.159 11.968 34.134 11.968Z" fill="url(#nc-horse-2-1_linear_307_173)"></path>
+    <path d="M34 34L37.253 14.48C38.07 9.577 34.758 4.94 29.856 4.123C29.367 4.041 28.872 4.001 28.376 4H19.624C14.653 4 10.624 8.03 10.624 13C10.624 13.496 10.665 13.991 10.747 14.48L14 34H34Z" fill="url(#nc-horse-2-2_linear_307_173)"></path>
+    <path d="M18 18.968C19.1046 18.968 20 18.0726 20 16.968C20 15.8634 19.1046 14.968 18 14.968C16.8954 14.968 16 15.8634 16 16.968C16 18.0726 16.8954 18.968 18 18.968Z" fill="url(#nc-horse-2-3_linear_307_173)"></path>
+    <path d="M24 2C22.564 2 21.4 3.164 21.4 4.6C21.4 6.808 22.912 8.831 24 10C25.086 8.831 26.6 6.806 26.6 4.6C26.6 3.164 25.436 2 24 2Z" fill="url(#nc-horse-2-4_linear_307_173)"></path>
+    <path d="M30 18.968C31.1046 18.968 32 18.0726 32 16.968C32 15.8634 31.1046 14.968 30 14.968C28.8954 14.968 28 15.8634 28 16.968C28 18.0726 28.8954 18.968 30 18.968Z" fill="url(#nc-horse-2-5_linear_307_173)"></path>
+    <path d="M14 40C14 44.418 17.582 48 22 48H26C30.418 48 34 44.418 34 40V34H14V40Z" fill="url(#nc-horse-2-6_linear_307_173)"></path>
+    <path d="M19.5 42C20.3284 42 21 41.3284 21 40.5C21 39.6716 20.3284 39 19.5 39C18.6716 39 18 39.6716 18 40.5C18 41.3284 18.6716 42 19.5 42Z" fill="url(#nc-horse-2-7_linear_307_173)"></path>
+    <path d="M28.5 42C29.3284 42 30 41.3284 30 40.5C30 39.6716 29.3284 39 28.5 39C27.6716 39 27 39.6716 27 40.5C27 41.3284 27.6716 42 28.5 42Z" fill="url(#nc-horse-2-8_linear_307_173)"></path>
+    <defs>
+        <linearGradient id="nc-horse-2-0_linear_307_173" x1="9.99989" y1="0.0322266" x2="9.99989" y2="11.968" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#976545"></stop>
+            <stop offset="1" stop-color="#674832"></stop>
+        </linearGradient>
+        <linearGradient id="nc-horse-2-1_linear_307_173" x1="37.9991" y1="0.0322266" x2="37.9991" y2="11.968" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#976545"></stop>
+            <stop offset="1" stop-color="#674832"></stop>
+        </linearGradient>
+        <linearGradient id="nc-horse-2-2_linear_307_173" x1="24.0004" y1="4" x2="24.0004" y2="34" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#B88163"></stop>
+            <stop offset="1" stop-color="#976545"></stop>
+        </linearGradient>
+        <linearGradient id="nc-horse-2-3_linear_307_173" x1="18" y1="14.968" x2="18" y2="18.968" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#393A46"></stop>
+            <stop offset="1" stop-color="#17181C"></stop>
+        </linearGradient>
+        <linearGradient id="nc-horse-2-4_linear_307_173" x1="24" y1="2" x2="24" y2="10" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E9D9D2"></stop>
+            <stop offset="1" stop-color="#CEA897"></stop>
+        </linearGradient>
+        <linearGradient id="nc-horse-2-5_linear_307_173" x1="30" y1="14.968" x2="30" y2="18.968" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#393A46"></stop>
+            <stop offset="1" stop-color="#17181C"></stop>
+        </linearGradient>
+        <linearGradient id="nc-horse-2-6_linear_307_173" x1="24" y1="25" x2="24" y2="48" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#976545"></stop>
+            <stop offset="1" stop-color="#674832"></stop>
+        </linearGradient>
+        <linearGradient id="nc-horse-2-7_linear_307_173" x1="19.5" y1="39" x2="19.5" y2="42" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#393A46"></stop>
+            <stop offset="1" stop-color="#17181C"></stop>
+        </linearGradient>
+        <linearGradient id="nc-horse-2-8_linear_307_173" x1="28.5" y1="39" x2="28.5" y2="42" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#393A46"></stop>
+            <stop offset="1" stop-color="#17181C"></stop>
+        </linearGradient>
+    </defs>
+</svg>
