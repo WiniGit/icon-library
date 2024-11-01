@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="0 0 64 64">
+    <path d="M6,21a5,5,0,1,1,5-5A5.006,5.006,0,0,1,6,21Z" fill="#61616b" data-color="color-2"></path>
+    <path d="M42,53a5,5,0,1,1,5-5A5.006,5.006,0,0,1,42,53Z" fill="#61616b" data-color="color-2"></path>
+    <path d="M6,35a3,3,0,1,1,3-3A3,3,0,0,1,6,35Z" fill="#61616b"></path>
+    <path d="M22,19a3,3,0,1,1,3-3A3,3,0,0,1,22,19Z" fill="#61616b"></path>
+    <path d="M58,19a3,3,0,1,1,3-3A3,3,0,0,1,58,19Z" fill="#61616b"></path>
+    <path d="M22,35a3,3,0,1,1,3-3A3,3,0,0,1,22,35Z" fill="#61616b"></path>
+    <path d="M22,51a3,3,0,1,1,3-3A3,3,0,0,1,22,51Z" fill="#61616b"></path>
+    <path d="M42,35a3,3,0,1,1,3-3A3,3,0,0,1,42,35Z" fill="#61616b"></path>
+    <path d="M6.125,51a3,3,0,1,1,3-3A3,3,0,0,1,6.125,51Z" fill="#61616b"></path>
+    <path d="M42,21a5,5,0,1,1,5-5A5.006,5.006,0,0,1,42,21Z" fill="#61616b" data-color="color-2"></path>
+    <path d="M58,37a5,5,0,1,1,5-5A5.006,5.006,0,0,1,58,37Z" fill="#61616b" data-color="color-2"></path>
+    <path d="M58,53a5,5,0,1,1,5-5A5.006,5.006,0,0,1,58,53Z" fill="#61616b" data-color="color-2"></path>
+</svg>

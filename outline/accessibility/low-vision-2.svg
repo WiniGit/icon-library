@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="0 0 64 64">
+    <path d="M58,33.009c1.508-1.713,2.673-3.24,3.453-4.325a2.9,2.9,0,0,0,.008-3.373C58.024,20.487,47.077,7,32,7,16.8,7,5.923,20.507,2.531,25.32a2.9,2.9,0,0,0,.008,3.353C5.525,32.874,14.269,43.727,26.5,46.4" fill="none" stroke="#61616b" stroke-width="2"></path>
+    <path d="M47.5,27A16,16,0,1,0,27.418,38.328" fill="none" stroke="#61616b" stroke-width="2"></path>
+    <circle cx="32.006" cy="23" r="5.996" fill="#61616b" data-stroke="none" stroke="none"></circle>
+    <circle cx="32.006" cy="23" r="5.996" fill="none" stroke="#61616b" stroke-width="2"></circle>
+    <line x1="44" y1="40" x2="44" y2="48" fill="none" stroke="#61616b" stroke-width="2" data-color="color-2"></line>
+    <line x1="40" y1="44" x2="48" y2="44" fill="none" stroke="#61616b" stroke-width="2" data-color="color-2"></line>
+    <circle cx="44" cy="44" r="12" fill="none" stroke="#61616b" stroke-width="2" data-color="color-2"></circle>
+    <line x1="61" y1="61" x2="52.5" y2="52.5" fill="none" stroke="#61616b" stroke-width="2" data-color="color-2"></line>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" viewBox="0 0 32 32">
+    <path d="M1,0h9V32H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0Z" fill="#61616b"></path>
+    <path d="M12,0h9a1,1,0,0,1,1,1V31a1,1,0,0,1-1,1H12V0Z" fill="#61616b"></path>
+    <path data-color="color-2" d="M24.5,14h7a.5.5,0,0,0,.41-.787l-3.5-5a.52.52,0,0,0-.82,0l-3.5,5A.5.5,0,0,0,24.5,14Z" fill="#61616b"></path>
+    <path data-color="color-2" d="M31.5,18h-7a.5.5,0,0,0-.41.787l3.5,5a.5.5,0,0,0,.82,0l3.5-5A.5.5,0,0,0,31.5,18Z" fill="#61616b"></path>
+</svg>

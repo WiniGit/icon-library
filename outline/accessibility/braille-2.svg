@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="0 0 64 64">
+    <circle cx="6" cy="16" r="4" fill="none" stroke="#61616b" stroke-width="2" data-cap="butt" data-color="color-2"></circle>
+    <circle cx="42" cy="48" r="4" fill="none" stroke="#61616b" stroke-width="2" data-cap="butt" data-color="color-2"></circle>
+    <circle cx="6" cy="32" r="2" fill="none" stroke="#61616b" stroke-width="2" data-cap="butt"></circle>
+    <circle cx="22" cy="16" r="2" fill="none" stroke="#61616b" stroke-width="2" data-cap="butt"></circle>
+    <circle cx="58" cy="16" r="2" fill="none" stroke="#61616b" stroke-width="2" data-cap="butt"></circle>
+    <circle cx="22" cy="32" r="2" fill="none" stroke="#61616b" stroke-width="2" data-cap="butt"></circle>
+    <circle cx="22" cy="48" r="2" fill="none" stroke="#61616b" stroke-width="2" data-cap="butt"></circle>
+    <circle cx="42" cy="32" r="2" fill="none" stroke="#61616b" stroke-width="2" data-cap="butt"></circle>
+    <circle cx="6.125" cy="48" r="2" fill="none" stroke="#61616b" stroke-width="2" data-cap="butt"></circle>
+    <circle cx="42" cy="16" r="4" fill="none" stroke="#61616b" stroke-width="2" data-cap="butt" data-color="color-2"></circle>
+    <circle cx="58" cy="32" r="4" fill="none" stroke="#61616b" stroke-width="2" data-cap="butt" data-color="color-2"></circle>
+    <circle cx="58" cy="48" r="4" fill="none" stroke="#61616b" stroke-width="2" data-cap="butt" data-color="color-2"></circle>
+</svg>
