@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16">
-    <path d="M8.143,8.5H12.5a1,1,0,0,1,1,1v2" fill="none" stroke="#61616b" stroke-linecap="round" stroke-linejoin="round"></path>
-    <polyline points="4.863 7.543 4 0.5 1.5 0.5" fill="none" stroke="#61616b" stroke-linecap="round" stroke-linejoin="round"></polyline>
-    <line x1="4.5" y1="4.5" x2="12.5" y2="4.5" fill="none" stroke="#61616b" stroke-linecap="round" stroke-linejoin="round"></line>
-    <circle data-color="color-2" cx="5.5" cy="11.5" r="4" fill="none" stroke="#61616b" stroke-linecap="round" stroke-linejoin="round"></circle>
-    <circle data-color="color-2" cx="13.5" cy="14.5" r="1" fill="none" stroke="#61616b" stroke-linecap="round" stroke-linejoin="round"></circle>
-</svg>

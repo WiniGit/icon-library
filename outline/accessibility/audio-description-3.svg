@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" viewBox="0 0 48 48">
-    <polygon points="2 8 2 36 30 36 38 42 38 36 46 36 46 8 2 8" fill="none" stroke="#61616b" stroke-width="2"></polygon>
-    <polyline points="11 28 15 16 17 16 21 28" fill="none" stroke="#61616b" stroke-width="2" data-color="color-2"></polyline>
-    <line x1="12" y1="25" x2="20" y2="25" fill="none" stroke="#61616b" stroke-width="2" data-cap="butt" data-color="color-2"></line>
-    <path d="M27,16h4a4,4,0,0,1,4,4v4a4,4,0,0,1-4,4H27a0,0,0,0,1,0,0V16A0,0,0,0,1,27,16Z" fill="none" stroke="#61616b" stroke-width="2" data-color="color-2"></path>
-</svg>

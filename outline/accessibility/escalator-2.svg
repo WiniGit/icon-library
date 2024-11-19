@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" viewBox="0 0 48 48">
-    <path d="M14.768,46H8.252A6.167,6.167,0,0,1,2,40.185,6,6,0,0,1,8,34h3.7l18.86-16.973A4,4,0,0,1,33.232,16h6.516A6.167,6.167,0,0,1,46,21.815,6,6,0,0,1,40,28H36.3L17.443,44.973A4,4,0,0,1,14.768,46Z" fill="none" stroke="#61616b" stroke-width="2"></path>
-    <circle cx="16.5" cy="6.5" r="4.5" fill="none" stroke="#61616b" stroke-width="2"></circle>
-    <line x1="45" y1="36" x2="36" y2="45" fill="none" stroke="#61616b" stroke-width="2" data-cap="butt" data-color="color-2"></line>
-    <polyline points="45 44 45 36 37 36" fill="none" stroke="#61616b" stroke-width="2" data-color="color-2"></polyline>
-    <path d="M12,33.728V20.5a4.5,4.5,0,0,1,9,0v5.128" fill="none" stroke="#61616b" stroke-width="2" data-cap="butt"></path>
-</svg>

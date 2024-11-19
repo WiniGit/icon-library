@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24">
-    <path d="M1.473,13.294c-.631-.747-.631-1.841,0-2.588,1.71-2.023,5.512-5.706,10.527-5.706s8.817,3.683,10.527,5.706c.631,.747,.631,1.841,0,2.588-1.71,2.023-5.512,5.706-10.527,5.706S3.183,15.317,1.473,13.294Z" fill="none" stroke="#61616b" stroke-width="2"></path>
-    <circle data-color="color-2" cx="12" cy="10" r="5" fill="none" stroke="#61616b" stroke-width="2"></circle>
-    <line data-color="color-2" x1="2" y1="20" x2="20" y2="2" fill="none" stroke="#61616b" stroke-width="2"></line>
-</svg>

@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" viewBox="0 0 32 32">
-    <line x1="2" y1="2" x2="26" y2="2" fill="none" stroke="#61616b" stroke-width="2"></line>
-    <line x1="14" y1="2" x2="14" y2="30" fill="none" stroke="#61616b" stroke-width="2"></line>
-    <polyline id="color" points="22 15 26 11 30 15" fill="none" stroke="#61616b" stroke-width="2" data-color="color-2"></polyline>
-    <polyline id="color-2" points="30 21 26 25 22 21" fill="none" stroke="#61616b" stroke-width="2" data-color="color-2"></polyline>
-</svg>

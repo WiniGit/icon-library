@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" viewBox="0 0 48 48">
-    <path data-cap="butt" d="M24.941,25H37a4,4,0,0,1,4,4V39" fill="none" stroke="#61616b" stroke-width="2"></path>
-    <path data-cap="butt" d="M12,13H33a4,4,0,0,1,4,4v8" fill="none" stroke="#61616b" stroke-width="2"></path>
-    <polyline data-cap="butt" points="13.647 21.234 10 3 4 3" fill="none" stroke="#61616b" stroke-width="2"></polyline>
-    <circle data-color="color-2" cx="16" cy="33" r="12" fill="none" stroke="#61616b" stroke-width="2"></circle>
-    <circle data-color="color-2" cx="16" cy="33" r="4" fill="none" stroke="#61616b" stroke-width="2"></circle>
-    <circle data-color="color-2" cx="41" cy="42" r="3" fill="none" stroke="#61616b" stroke-width="2"></circle>
-</svg>
