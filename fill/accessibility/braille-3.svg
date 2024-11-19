@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" viewBox="0 0 48 48">
-    <path d="M14,13a5,5,0,1,1,5-5A5.006,5.006,0,0,1,14,13Z" fill="#61616b" data-color="color-2"></path>
-    <path d="M14,45a5,5,0,1,1,5-5A5.006,5.006,0,0,1,14,45Z" fill="#61616b" data-color="color-2"></path>
-    <path d="M34,13a5,5,0,1,1,5-5A5.006,5.006,0,0,1,34,13Z" fill="#61616b" data-color="color-2"></path>
-    <path d="M34,29a5,5,0,1,1,5-5A5.006,5.006,0,0,1,34,29Z" fill="#61616b" data-color="color-2"></path>
-    <path d="M14,27a3,3,0,1,1,3-3A3,3,0,0,1,14,27Z" fill="#61616b"></path>
-    <path d="M34,43a3,3,0,1,1,3-3A3,3,0,0,1,34,43Z" fill="#61616b"></path>
-</svg>

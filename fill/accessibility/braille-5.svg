@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 16 16">
-    <circle cx="4" cy="2" r="2" fill="#61616b" data-color="color-2"></circle>
-    <circle cx="4" cy="8" r="1.25" fill="#61616b"></circle>
-    <circle cx="4" cy="14" r="2" fill="#61616b" data-color="color-2"></circle>
-    <circle cx="12" cy="2" r="2" fill="#61616b" data-color="color-2"></circle>
-    <circle cx="12" cy="8" r="2" fill="#61616b" data-color="color-2"></circle>
-    <circle cx="12" cy="14" r="1.25" fill="#61616b"></circle>
-</svg>
