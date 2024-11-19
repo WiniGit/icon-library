@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="0 0 64 64">
-    <line fill="none" stroke="#61616b" stroke-width="2" x1="15" y1="2" x2="15" y2="62"></line>
-    <path fill="none" stroke="#61616b" stroke-width="2" d="M5,2h45.818 C53.128,2,55,3.791,55,6v52c0,2.209-1.872,4-4.182,4H5V2z"></path>
-    <line data-color="color-2" fill="none" stroke="#61616b" stroke-width="2" x1="61" y1="10" x2="61" y2="18"></line>
-    <line data-color="color-2" fill="none" stroke="#61616b" stroke-width="2" x1="61" y1="26" x2="61" y2="34"></line>
-    <circle data-color="color-2" fill="none" stroke="#61616b" stroke-width="2" cx="35" cy="25" r="4"></circle>
-    <path data-color="color-2" fill="none" stroke="#61616b" stroke-width="2" d="M45,42H25v0 c0-4.418,3.582-8,8-8h4C41.418,34,45,37.582,45,42L45,42z"></path>
-</svg>
