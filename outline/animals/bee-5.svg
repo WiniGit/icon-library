@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" viewBox="0 0 32 32">
-    <path data-cap="butt" data-color="color-2" fill="none" stroke="#61616b" stroke-width="2" d="M22.00333,21.45625 C20.85338,26.03769,18.60042,31,16,31c-2.60162,0-4.85289-4.96224-6.00201-9.54435"></path>
-    <line data-cap="butt" data-color="color-2" fill="none" stroke="#61616b" stroke-width="2" x1="11.09974" y1="25" x2="20.90092" y2="25"></line>
-    <line data-cap="butt" data-color="color-2" fill="none" stroke="#61616b" stroke-width="2" x1="12.69613" y1="19" x2="19.30386" y2="19"></line>
-    <path fill="none" stroke="#61616b" stroke-width="2" d="M12,5.2 C12,2.45833,14.52724,1,16,1s4,1.45833,4,4.2C20,6.7464,17.47276,8,16,8S12,6.7464,12,5.2z"></path>
-    <path fill="none" stroke="#61616b" stroke-width="2" d="M7.49857,22H1 C1,15.18182,7.76136,8,16,8c-0.71974,2.6599-1.86,6.63653-2.73926,9.67267C12.51787,20.23786,10.16917,22,7.49857,22z"></path>
-    <path fill="none" stroke="#61616b" stroke-width="2" d="M24.50143,22H31 c0-6.81818-6.76136-14-15-14c0.71974,2.6599,1.86,6.63653,2.73926,9.67267C19.48213,20.23786,21.83083,22,24.50143,22z"></path>
-</svg>
