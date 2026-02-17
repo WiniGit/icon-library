@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M7 3.5V1.5" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M7 22.5V20.5" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M17 3.5V1.5" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M17 22.5V20.5" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M12 3.5V1.5" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M12 22.5V20.5" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M20.5 7H22.5" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M1.5 7H3.5" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M20.5 17H22.5" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M1.5 17H3.5" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M20.5 12H22.5" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M1.5 12H3.5" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M18 3.5H6C4.61929 3.5 3.5 4.61929 3.5 6V18C3.5 19.3807 4.61929 20.5 6 20.5H18C19.3807 20.5 20.5 19.3807 20.5 18V6C20.5 4.61929 19.3807 3.5 18 3.5Z" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M13.3462 10.6154L12 7L10.6538 10.6538L7 12L10.6538 13.3846L12 17L13.3462 13.3846L17 12L13.3462 10.6154Z" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" />
+</svg>

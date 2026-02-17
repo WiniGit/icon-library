@@ -1,0 +1,15 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M4 6V9.5" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" />
+    <path d="M6.5 12H9.5" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" />
+    <path d="M13.7131 13.8202L18.2867 18.6797" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" />
+    <path d="M17.5 20.5H14.5" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" />
+    <path d="M4 6C5.38071 6 6.5 4.88071 6.5 3.5C6.5 2.11929 5.38071 1 4 1C2.61929 1 1.5 2.11929 1.5 3.5C1.5 4.88071 2.61929 6 4 6Z" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M12 6C13.3807 6 14.5 4.88071 14.5 3.5C14.5 2.11929 13.3807 1 12 1C10.6193 1 9.5 2.11929 9.5 3.5C9.5 4.88071 10.6193 6 12 6Z" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M20 6C21.3807 6 22.5 4.88071 22.5 3.5C22.5 2.11929 21.3807 1 20 1C18.6193 1 17.5 2.11929 17.5 3.5C17.5 4.88071 18.6193 6 20 6Z" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M4 14.5C5.38071 14.5 6.5 13.3807 6.5 12C6.5 10.6193 5.38071 9.5 4 9.5C2.61929 9.5 1.5 10.6193 1.5 12C1.5 13.3807 2.61929 14.5 4 14.5Z" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M12 14.5C13.3807 14.5 14.5 13.3807 14.5 12C14.5 10.6193 13.3807 9.5 12 9.5C10.6193 9.5 9.5 10.6193 9.5 12C9.5 13.3807 10.6193 14.5 12 14.5Z" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M20 14.5C21.3807 14.5 22.5 13.3807 22.5 12C22.5 10.6193 21.3807 9.5 20 9.5C18.6193 9.5 17.5 10.6193 17.5 12C17.5 13.3807 18.6193 14.5 20 14.5Z" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M4 23C5.38071 23 6.5 21.8807 6.5 20.5C6.5 19.1193 5.38071 18 4 18C2.61929 18 1.5 19.1193 1.5 20.5C1.5 21.8807 2.61929 23 4 23Z" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M12 23C13.3807 23 14.5 21.8807 14.5 20.5C14.5 19.1193 13.3807 18 12 18C10.6193 18 9.5 19.1193 9.5 20.5C9.5 21.8807 10.6193 23 12 23Z" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+    <path d="M20 23C21.3807 23 22.5 21.8807 22.5 20.5C22.5 19.1193 21.3807 18 20 18C18.6193 18 17.5 19.1193 17.5 20.5C17.5 21.8807 18.6193 23 20 23Z" stroke="#61616b" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square" />
+</svg>
